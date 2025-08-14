@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I’m Carlos 👋
 
-<!--
-**carmoyma/carmoyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior web developer and I just finished my DAW studies.  
+I enjoy creating complete projects where the front-end and back-end work together — and I also like fixing and upgrading computer hardware in my free time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🎓 Recently finished Web Application Development (DAW)
+- 💻 Building web apps from scratch with HTML, CSS, JS, PHP, and MySQL
+- 🖥 Passionate about PC building, repairing, and upgrading
+- 🎵 Love music that gives good vibes (Daft Punk, Boney M, etc.)
+- 📍 From Málaga, Spain
+
+---
+
+## Projects I’m proud of
+- **[Itinerum](https://github.com/carmoyma/Itinerum)** – Search, plan, and save custom itineraries in Málaga
+
+---
+
+## What I’m learning right now
+- Learning **GDScript** to make a game, which I’ll upload here later
+
