@@ -15,7 +15,7 @@ I enjoy creating complete projects where the front-end and back-end work togethe
 ---
 
 ## Projects I’m proud of
-- **[Itinerum](https://github.com/carmoyma/Itinerum)** – Search, plan, and save custom itineraries in Málaga
+- **[Itinerum](https://github.com/carmoyma/Itinerum-TFG)** – Search, plan, and save custom itineraries in Málaga
 
 ---
 
