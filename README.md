@@ -50,20 +50,19 @@ I enjoy creating complete projects where the front-end and back-end work togethe
 
 ## 🌐 Connect With Me
 <div align="center">
-
   <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372" title="LinkedIn" style="text-decoration:none; color:inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="26" alt="LinkedIn" style="vertical-align:middle;"> 
-    <strong>LinkedIn</strong>
-  </a> 
-
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-
-  <a href="mailto:carmoyma@gmail.com" title="Email" style="text-decoration:none; color:inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="26" alt="Email" style="vertical-align:middle;"> 
-    <strong>Email</strong>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="26" alt="LinkedIn" style="vertical-align:middle; margin-right:4px;">
+    <span style="vertical-align:middle; font-size:14px;">LinkedIn</span>
   </a>
 
+  <img width="20" />
+
+  <a href="mailto:carmoyma@gmail.com" title="Email" style="text-decoration:none; color:inherit;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="26" alt="Email" style="vertical-align:middle; margin-right:4px;">
+    <span style="vertical-align:middle; font-size:14px;">Email</span>
+  </a>
 </div>
+
 
 
 
