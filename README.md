@@ -49,16 +49,12 @@ I enjoy creating complete projects where the front-end and back-end work togethe
 ---
 
 ## 🌐 Connect With Me
-<div align="center" style="line-height:0;">
-  <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="52" height="40" alt="linkedin logo"
-         style="display:block; float:left;"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:carmoyma@gmail.com" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="52" height="40" alt="gmail logo"
-         style="display:block; float:left; margin-left:6px;"/>
+  <a href="mailto:carmoyma@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="40" alt="Gmail"/>
   </a>
 </div>
 
