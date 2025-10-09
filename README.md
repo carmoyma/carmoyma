@@ -51,12 +51,13 @@ I enjoy creating complete projects where the front-end and back-end work togethe
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:carmoyma@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="40" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="40" alt="Gmail"/>
   </a>
 </div>
+
 
 
 
