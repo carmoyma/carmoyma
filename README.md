@@ -54,13 +54,6 @@ I enjoy creating complete projects where the front-end and back-end work togethe
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="26" alt="LinkedIn" style="vertical-align:middle; margin-right:4px;">
   </a>
 
-  <img width="20" />
-
-  <a href="mailto:carmoyma@gmail.com" title="Email" style="text-decoration:none; color:inherit;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="26" alt="Email" style="vertical-align:middle; margin-right:4px;">
-  </a>
-</div>
-
 
 
 
