@@ -42,21 +42,22 @@ I enjoy creating complete projects where the front-end and back-end work togethe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-moya-márquez-089b8a372">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
 
-  <a href="mailto:carmoyma@gmail.com" target="_blank">
+  <a href="mailto:carmoyma@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 </div>
-
 ---
 
 <div align="center">
